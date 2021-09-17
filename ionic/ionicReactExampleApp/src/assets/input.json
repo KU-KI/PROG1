@@ -1,0 +1,16 @@
+[
+  { "empId": 1, "empName": "Govind", "deptName": "Computer" },
+  { "empId": 2, "empName": "Raghav", "deptName": "DSOS" },
+  { "empId": 3, "empName": "Ritha", "deptName": "DSOS" },
+  { "empId": 4, "empName": "Avantika", "deptName": "Payments" },
+  { "empId": 5, "empName": "Gaurav", "deptName": "Payments" },
+  { "empId": 6, "empName": "Rupesh", "deptName": "PCF" },
+  { "empId": 7, "empName": "Dolly", "deptName": "Marketing" },
+  { "empId": 8, "empName": "Aditya", "deptName": "Sales" },
+  { "empId": 9, "empName": "Adhijeet", "deptName": "PCF" },
+  { "empId": 10, "empName": "Arun", "deptName": "Security" },
+  { "empId": 11, "empName": "Avantika", "deptName": "PCF" },
+  { "empId": 12, "empName": "Abhishek", "deptName": "Marketing" },
+  { "empId": 13, "empName": "Richa", "deptName": "Payments" },
+  { "empId": 14, "empName": "Heena", "deptName": "RMS" }
+]

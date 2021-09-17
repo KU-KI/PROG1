@@ -1,0 +1,7 @@
+{
+  "name": "Train",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}

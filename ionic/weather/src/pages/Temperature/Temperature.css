@@ -1,0 +1,67 @@
+.Sunny {
+    --background: url(/assets/img/sunny.jpg) no-repeat center/cover;
+    opacity: 0.8;
+}
+.Clouds {
+    --background: url(/assets/img/cloudy.jpg) no-repeat center/cover;
+    opacity: 0.8;
+}
+.Clear {
+    --background: url(/assets/img/clear.jpg) no-repeat center/cover;
+    opacity: 0.8;
+}
+.Thunderstorm {
+    --background: url(/assets/img/thunderstorm.jpg) no-repeat center/cover;
+    opacity: 0.8;
+}
+.Drizzle {
+    --background: url(/assets/img/drizzle.jpg) no-repeat center/cover;
+    opacity: 0.8;
+}
+.Rain {
+    --background: url(/assets/img/rain.jpg) no-repeat center/cover;
+    opacity: 0.8;
+}
+.Snow {
+    --background: url(/assets/img/snow.jpg) no-repeat center/cover;
+    opacity: 0.8;
+}
+.Mist,
+.Smoke,
+.Dust,
+.Fog,
+.Sand,
+.Ash,
+.Squall,
+.Tornado,
+.Haze {
+    --background: url(/assets/img/haze.jpg) no-repeat center/cover;
+    opacity: 0.8;
+}
+.container {
+    padding: 10px 12px;
+}
+.location {
+    color: white;
+    font-size: 300%;
+    font-family: inherit;
+}
+.temp {
+    color: white;
+    font-size: 300%;
+    padding: 5px 0 10px 10px;
+}
+.weather-padding {
+    padding: 5px 0px 0px 10px;
+}
+.weather {
+    color: white;
+    font-size: 125%;
+    font-family: inherit;
+    padding: 2px 0;
+}
+.fab-button {
+    position: fixed;
+    bottom: 5%;
+    right: 5%;
+}
